@@ -13,7 +13,7 @@ This is a simple Profile Card created using HTML and CSS as part of **Daily Task
 
 ## How to view:
 
-- Live: [GitHub Pages Link Here]
+- Live: [https://jumanajalal.github.io/csstask/]
 - Or, download and open `index.html` in your browser.
 
 ## Author:
